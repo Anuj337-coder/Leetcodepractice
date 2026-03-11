@@ -9,6 +9,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0724-find-pivot-index) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Prefix Sum
 |  |
 | ------- |
