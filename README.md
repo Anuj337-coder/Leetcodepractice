@@ -8,11 +8,13 @@ Just starting the things out there
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0724-find-pivot-index) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
@@ -30,4 +32,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
