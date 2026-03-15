@@ -8,6 +8,7 @@ Just starting the things out there
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0303-range-sum-query-immutable) |
@@ -45,6 +46,7 @@ Just starting the things out there
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
@@ -54,4 +56,16 @@ Just starting the things out there
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
