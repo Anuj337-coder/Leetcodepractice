@@ -61,6 +61,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
@@ -93,4 +94,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0242-valid-anagram) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
