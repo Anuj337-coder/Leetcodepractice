@@ -39,14 +39,17 @@ Just starting the things out there
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0098-validate-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0098-validate-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0098-validate-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 ## Hash Table
 |  |
@@ -100,4 +103,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0278-first-bad-version) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
