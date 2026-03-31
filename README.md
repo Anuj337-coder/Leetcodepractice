@@ -16,6 +16,7 @@ Just starting the things out there
 | [0287-find-the-duplicate-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0896-monotonic-array) |
@@ -35,6 +36,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 ## Tree
 |  |
@@ -107,4 +109,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0098-validate-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
