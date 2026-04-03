@@ -42,16 +42,19 @@ Just starting the things out there
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 ## Hash Table
 |  |
@@ -112,5 +115,6 @@ Just starting the things out there
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
