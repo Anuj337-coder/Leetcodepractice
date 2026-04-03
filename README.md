@@ -43,6 +43,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -52,6 +53,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -61,6 +63,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -125,6 +128,7 @@ Just starting the things out there
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
