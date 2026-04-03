@@ -10,6 +10,7 @@ Just starting the things out there
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@ Just starting the things out there
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0242-valid-anagram) |
@@ -140,4 +142,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
