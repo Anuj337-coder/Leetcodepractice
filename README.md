@@ -14,6 +14,7 @@ Just starting the things out there
 | [0056-merge-intervals](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0238-product-of-array-except-self) |
@@ -93,6 +94,7 @@ Just starting the things out there
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
