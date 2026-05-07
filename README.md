@@ -26,6 +26,7 @@ Just starting the things out there
 | [0724-find-pivot-index](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2574-left-and-right-sum-differences](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2574-left-and-right-sum-differences) |
@@ -36,6 +37,7 @@ Just starting the things out there
 | [0303-range-sum-query-immutable](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
@@ -101,6 +103,7 @@ Just starting the things out there
 | [0278-first-bad-version](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,4 +163,5 @@ Just starting the things out there
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
