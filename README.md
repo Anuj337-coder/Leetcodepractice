@@ -25,6 +25,7 @@ Just starting the things out there
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
@@ -106,6 +107,7 @@ Just starting the things out there
 | [0287-find-the-duplicate-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
