@@ -154,6 +154,7 @@ Just starting the things out there
 | ------- |
 | [0242-valid-anagram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
 ## Interactive
@@ -193,5 +194,6 @@ Just starting the things out there
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
