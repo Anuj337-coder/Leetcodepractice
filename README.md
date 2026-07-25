@@ -24,6 +24,7 @@ Just starting the things out there
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -128,6 +129,7 @@ Just starting the things out there
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
@@ -139,6 +141,7 @@ Just starting the things out there
 | [0069-sqrtx](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
