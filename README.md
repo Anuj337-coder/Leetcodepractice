@@ -14,6 +14,7 @@ Just starting the things out there
 | [0035-search-insert-position](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -134,6 +135,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0268-missing-number) |
@@ -157,6 +159,7 @@ Just starting the things out there
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0283-move-zeroes) |
@@ -219,4 +222,12 @@ Just starting the things out there
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
