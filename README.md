@@ -12,6 +12,7 @@ Just starting the things out there
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
@@ -57,6 +58,7 @@ Just starting the things out there
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
@@ -130,6 +132,7 @@ Just starting the things out there
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
