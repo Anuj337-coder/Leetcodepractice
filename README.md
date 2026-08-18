@@ -8,6 +8,7 @@ Just starting the things out there
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0035-search-insert-position) |
@@ -94,6 +95,7 @@ Just starting the things out there
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
