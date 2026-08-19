@@ -42,6 +42,7 @@ Just starting the things out there
 | [1480-running-sum-of-1d-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Prefix Sum
@@ -171,6 +172,7 @@ Just starting the things out there
 | [0287-find-the-duplicate-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
