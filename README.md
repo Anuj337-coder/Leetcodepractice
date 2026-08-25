@@ -13,6 +13,7 @@ Just starting the things out there
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
@@ -158,6 +159,7 @@ Just starting the things out there
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0202-happy-number) |
@@ -215,6 +217,7 @@ Just starting the things out there
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1572-matrix-diagonal-sum) |
