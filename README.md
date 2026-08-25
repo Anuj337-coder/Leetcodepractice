@@ -15,6 +15,7 @@ Just starting the things out there
 | [0035-search-insert-position](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
@@ -218,6 +219,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1572-matrix-diagonal-sum) |
@@ -230,6 +232,7 @@ Just starting the things out there
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
