@@ -1,15 +1,16 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        return helper(0,nums,k);
-    }
-    public int helper(int start,int []nums,int k){
-        if(start==nums.length)return 0;
-         int curr=0;
-         int count=0;
-         for(int i=start;i<nums.length;i++){
-            curr=curr+nums[i];
-            if(curr==k)count++;
-         }
-         return count+helper(start+1,nums,k);
+        int n=nums.length;
+        HashMap<Integer,Integer>map=new HashMap<>();
+        int presum=0;
+        int count=0;
+        map.put(0,1);
+        for(int i=0;i<n;i++){
+            presum+=nums[i];
+            int remove=presum-k;
+            count=count+map.getOrDefault(remove,0);
+            map.put(presum,map.getOrDefault(presum,0)+1);
+        }
+        return count;
     }
 }
