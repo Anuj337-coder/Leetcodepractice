@@ -46,6 +46,7 @@ Just starting the things out there
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Just starting the things out there
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
 | ------- |
