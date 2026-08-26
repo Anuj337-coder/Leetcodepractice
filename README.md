@@ -166,6 +166,7 @@ Just starting the things out there
 | [0202-happy-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
 | [2485-find-the-pivot-integer](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -198,6 +199,7 @@ Just starting the things out there
 | [1021-remove-outermost-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
 ## Interactive
 |  |
@@ -260,4 +262,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
