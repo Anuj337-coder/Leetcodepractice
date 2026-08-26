@@ -9,6 +9,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -192,6 +193,7 @@ Just starting the things out there
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0389-find-the-difference) |
@@ -266,4 +268,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
