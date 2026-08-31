@@ -65,6 +65,7 @@ Just starting the things out there
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -179,6 +180,7 @@ Just starting the things out there
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0151-reverse-words-in-a-string) |
@@ -199,6 +201,7 @@ Just starting the things out there
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0014-longest-common-prefix) |
@@ -298,4 +301,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
