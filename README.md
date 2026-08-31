@@ -121,6 +121,7 @@ Just starting the things out there
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
@@ -164,6 +165,7 @@ Just starting the things out there
 | ------- |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Just starting the things out there
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
 ## Interactive
