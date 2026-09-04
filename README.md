@@ -50,6 +50,7 @@ Just starting the things out there
 | [2574-left-and-right-sum-differences](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Just starting the things out there
 | [2485-find-the-pivot-integer](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [3903-smallest-stable-index-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
