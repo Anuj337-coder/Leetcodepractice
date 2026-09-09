@@ -114,6 +114,7 @@ Just starting the things out there
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0205-isomorphic-strings) |
@@ -189,6 +190,7 @@ Just starting the things out there
 | [0031-next-permutation](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0202-happy-number) |
@@ -317,6 +319,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0876-middle-of-the-linked-list) |
@@ -328,4 +331,5 @@ Just starting the things out there
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
