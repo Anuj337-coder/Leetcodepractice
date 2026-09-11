@@ -187,6 +187,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0141-linked-list-cycle) |
@@ -320,6 +321,7 @@ Just starting the things out there
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0206-reverse-linked-list) |
