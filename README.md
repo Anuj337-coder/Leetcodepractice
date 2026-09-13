@@ -151,12 +151,14 @@ Just starting the things out there
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0268-missing-number) |
@@ -192,6 +194,7 @@ Just starting the things out there
 | [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0202-happy-number) |
@@ -324,6 +327,7 @@ Just starting the things out there
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0237-delete-node-in-a-linked-list) |
@@ -339,4 +343,8 @@ Just starting the things out there
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
