@@ -110,6 +110,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
@@ -217,6 +218,7 @@ Just starting the things out there
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0013-roman-to-integer) |
@@ -265,6 +267,7 @@ Just starting the things out there
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
