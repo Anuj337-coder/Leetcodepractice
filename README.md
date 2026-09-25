@@ -33,6 +33,7 @@ Just starting the things out there
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
+| [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@ Just starting the things out there
 | [0268-missing-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -283,6 +285,7 @@ Just starting the things out there
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -356,4 +359,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
