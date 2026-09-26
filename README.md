@@ -38,6 +38,7 @@ Just starting the things out there
 | [0540-single-element-in-a-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -279,6 +280,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
@@ -288,6 +290,7 @@ Just starting the things out there
 | [0234-palindrome-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
