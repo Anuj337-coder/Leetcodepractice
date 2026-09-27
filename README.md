@@ -241,6 +241,7 @@ Just starting the things out there
 | [1021-remove-outermost-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1544-make-the-string-great](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
@@ -298,6 +299,7 @@ Just starting the things out there
 | [1021-remove-outermost-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2104-sum-of-subarray-ranges) |
