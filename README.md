@@ -50,6 +50,7 @@ Just starting the things out there
 | [1480-running-sum-of-1d-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2104-sum-of-subarray-ranges](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -297,6 +298,7 @@ Just starting the things out there
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2104-sum-of-subarray-ranges) |
 ## Quicksort
 |  |
 | ------- |
@@ -372,4 +374,5 @@ Just starting the things out there
 | [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
