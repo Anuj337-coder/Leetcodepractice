@@ -7,17 +7,18 @@ class Solution {
             char ch=s.charAt(i);
             if(ch=='('){
                 count++;
-                maxcount=Math.max(count,maxcount);
+                
 
             }
 
             if(ch==')'){
                 count--;
-                 maxcount=Math.max(count,maxcount);
+                
 
                 
 
             }
+            maxcount=Math.max(count,maxcount);
         }
         return maxcount;
     }
