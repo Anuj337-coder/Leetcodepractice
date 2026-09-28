@@ -239,6 +239,7 @@ Just starting the things out there
 | [0151-reverse-words-in-a-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0451-sort-characters-by-frequency) |
@@ -304,6 +305,7 @@ Just starting the things out there
 | [0084-largest-rectangle-in-histogram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0503-next-greater-element-ii) |
@@ -337,6 +339,7 @@ Just starting the things out there
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -392,6 +395,7 @@ Just starting the things out there
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0316-remove-duplicate-letters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0503-next-greater-element-ii) |
