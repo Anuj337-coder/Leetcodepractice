@@ -252,6 +252,7 @@ Just starting the things out there
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3174-clear-digits) |
 ## Interactive
 |  |
 | ------- |
@@ -294,6 +295,7 @@ Just starting the things out there
 | [0682-baseball-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3174-clear-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -313,6 +315,7 @@ Just starting the things out there
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2104-sum-of-subarray-ranges) |
+| [3174-clear-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3174-clear-digits) |
 ## Quicksort
 |  |
 | ------- |
