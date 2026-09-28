@@ -138,6 +138,7 @@ Just starting the things out there
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
 |  |
@@ -291,6 +292,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
