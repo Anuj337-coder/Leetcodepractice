@@ -144,6 +144,7 @@ Just starting the things out there
 | ------- |
 | [0155-min-stack](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -311,6 +312,7 @@ Just starting the things out there
 | [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -402,6 +404,7 @@ Just starting the things out there
 | [0402-remove-k-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2104-sum-of-subarray-ranges) |
@@ -418,4 +421,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
