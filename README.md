@@ -125,6 +125,7 @@ Just starting the things out there
 | [0128-longest-consecutive-sequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0202-happy-number) |
@@ -142,6 +143,7 @@ Just starting the things out there
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0901-online-stock-span) |
@@ -374,6 +376,7 @@ Just starting the things out there
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0206-reverse-linked-list) |
@@ -425,4 +428,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
