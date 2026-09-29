@@ -93,6 +93,7 @@ Just starting the things out there
 | [0110-balanced-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0543-diameter-of-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -103,6 +104,7 @@ Just starting the things out there
 | [0110-balanced-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0543-diameter-of-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -313,6 +315,7 @@ Just starting the things out there
 | [0402-remove-k-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0503-next-greater-element-ii) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1021-remove-outermost-parentheses) |
