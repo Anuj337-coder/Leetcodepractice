@@ -147,6 +147,7 @@ Just starting the things out there
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
@@ -198,6 +199,7 @@ Just starting the things out there
 | [0451-sort-characters-by-frequency](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Just starting the things out there
 | [1544-make-the-string-great](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2390-removing-stars-from-a-string) |
@@ -307,6 +310,7 @@ Just starting the things out there
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
