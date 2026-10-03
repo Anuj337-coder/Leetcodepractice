@@ -42,6 +42,7 @@ Just starting the things out there
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0724-find-pivot-index) |
@@ -332,6 +333,7 @@ Just starting the things out there
 | [0239-sliding-window-maximum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0992-subarrays-with-k-different-integers) |
