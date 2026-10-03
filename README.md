@@ -48,6 +48,7 @@ Just starting the things out there
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -69,6 +70,7 @@ Just starting the things out there
 | [0303-range-sum-query-immutable](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1480-running-sum-of-1d-array) |
@@ -150,6 +152,7 @@ Just starting the things out there
 | [0560-subarray-sum-equals-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -323,6 +326,7 @@ Just starting the things out there
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
