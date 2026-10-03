@@ -230,6 +230,7 @@ Just starting the things out there
 | [0628-maximum-product-of-three-numbers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2485-find-the-pivot-integer](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -296,6 +297,7 @@ Just starting the things out there
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2000-reverse-prefix-of-word) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3174-clear-digits) |
 ## Interactive
@@ -344,6 +346,7 @@ Just starting the things out there
 | [1763-longest-nice-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Simulation
 |  |
 | ------- |
