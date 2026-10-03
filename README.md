@@ -49,6 +49,7 @@ Just starting the things out there
 | [0896-monotonic-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
@@ -155,6 +156,7 @@ Just starting the things out there
 | [0594-longest-harmonious-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1763-longest-nice-substring) |
@@ -212,6 +214,7 @@ Just starting the things out there
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
@@ -331,6 +334,7 @@ Just starting the things out there
 | [0594-longest-harmonious-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
