@@ -64,6 +64,7 @@ Just starting the things out there
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [3206-alternating-groups-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3206-alternating-groups-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
@@ -347,6 +348,7 @@ Just starting the things out there
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3206-alternating-groups-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3206-alternating-groups-i) |
 ## Simulation
 |  |
 | ------- |
