@@ -301,6 +301,7 @@ Just starting the things out there
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3174-clear-digits) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Interactive
 |  |
 | ------- |
@@ -349,6 +350,7 @@ Just starting the things out there
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3206-alternating-groups-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3206-alternating-groups-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Simulation
 |  |
 | ------- |
