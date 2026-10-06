@@ -36,6 +36,7 @@ Just starting the things out there
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
+| [0413-arithmetic-slices](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -95,6 +96,7 @@ Just starting the things out there
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
+| [0413-arithmetic-slices](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0413-arithmetic-slices) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 ## Tree
 |  |
@@ -336,6 +338,7 @@ Just starting the things out there
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0643-maximum-average-subarray-i) |
