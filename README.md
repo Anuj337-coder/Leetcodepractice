@@ -290,6 +290,7 @@ Just starting the things out there
 | [0151-reverse-words-in-a-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0402-remove-k-digits) |
@@ -328,6 +329,7 @@ Just starting the things out there
 | [0100-same-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 ## Union-Find
 |  |
@@ -522,6 +524,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0301-remove-invalid-parentheses) |
 ## Memoization
 |  |
 | ------- |
