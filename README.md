@@ -95,6 +95,7 @@ Just starting the things out there
 | [0032-longest-valid-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
@@ -231,6 +232,7 @@ Just starting the things out there
 | [0013-roman-to-integer](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0268-missing-number) |
@@ -518,4 +520,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
