@@ -28,6 +28,7 @@ Just starting the things out there
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0268-missing-number) |
@@ -98,6 +99,7 @@ Just starting the things out there
 | [0070-climbing-stairs](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0413-arithmetic-slices) |
