@@ -114,6 +114,7 @@ Just starting the things out there
 | [0931-minimum-falling-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 | [1025-divisor-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -251,6 +252,7 @@ Just starting the things out there
 | [0268-missing-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -543,6 +545,7 @@ Just starting the things out there
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
