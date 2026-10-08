@@ -97,6 +97,7 @@ Just starting the things out there
 | [0032-longest-valid-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -236,6 +237,7 @@ Just starting the things out there
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0189-rotate-array) |
@@ -545,4 +547,8 @@ Just starting the things out there
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1025-divisor-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
