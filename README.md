@@ -23,6 +23,7 @@ Just starting the things out there
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0136-single-number) |
@@ -102,6 +103,7 @@ Just starting the things out there
 | [0062-unique-paths](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0198-house-robber) |
