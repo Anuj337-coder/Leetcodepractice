@@ -19,6 +19,7 @@ Just starting the things out there
 | [0053-maximum-subarray](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -98,6 +99,7 @@ Just starting the things out there
 | [0042-trapping-rain-water](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -346,6 +348,7 @@ Just starting the things out there
 | ------- |
 | [0048-rotate-image](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1572-matrix-diagonal-sum) |
