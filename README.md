@@ -54,6 +54,7 @@ Just starting the things out there
 | [0896-monotonic-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -108,6 +109,7 @@ Just starting the things out there
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0413-arithmetic-slices) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 | [1025-divisor-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1025-divisor-game) |
 ## Tree
@@ -350,6 +352,7 @@ Just starting the things out there
 | [0054-spiral-matrix](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
+| [0931-minimum-falling-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1572-matrix-diagonal-sum) |
 ## Sliding Window
