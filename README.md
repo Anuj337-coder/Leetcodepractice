@@ -61,6 +61,7 @@ Just starting the things out there
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1463-cherry-pickup-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1463-cherry-pickup-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1572-matrix-diagonal-sum) |
@@ -115,6 +116,7 @@ Just starting the things out there
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
 | [1025-divisor-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
+| [1463-cherry-pickup-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1463-cherry-pickup-ii) |
 ## Tree
 |  |
 | ------- |
@@ -359,6 +361,7 @@ Just starting the things out there
 | [0073-set-matrix-zeroes](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1260-shift-2d-grid) |
+| [1463-cherry-pickup-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1463-cherry-pickup-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1572-matrix-diagonal-sum) |
 ## Sliding Window
 |  |
