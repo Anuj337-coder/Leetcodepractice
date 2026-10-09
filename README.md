@@ -115,6 +115,7 @@ Just starting the things out there
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0413-arithmetic-slices) |
+| [0678-valid-parenthesis-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0968-binary-tree-cameras) |
@@ -319,6 +320,7 @@ Just starting the things out there
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -420,6 +422,7 @@ Just starting the things out there
 | [0503-next-greater-element-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0901-online-stock-span) |
@@ -453,6 +456,7 @@ Just starting the things out there
 | [0020-valid-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1021-remove-outermost-parentheses) |
@@ -464,6 +468,7 @@ Just starting the things out there
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
