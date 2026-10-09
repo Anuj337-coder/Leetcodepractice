@@ -111,6 +111,7 @@ Just starting the things out there
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0413-arithmetic-slices) |
@@ -256,6 +257,7 @@ Just starting the things out there
 | [0189-rotate-array](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
@@ -350,6 +352,7 @@ Just starting the things out there
 | [0100-same-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0322-coin-change) |
 ## Union-Find
@@ -575,4 +578,12 @@ Just starting the things out there
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
