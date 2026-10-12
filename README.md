@@ -75,6 +75,7 @@ Just starting the things out there
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3206-alternating-groups-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -193,6 +194,7 @@ Just starting the things out there
 | [1763-longest-nice-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
@@ -300,6 +302,7 @@ Just starting the things out there
 | [0287-find-the-duplicate-number](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/0389-find-the-difference) |
 | [1763-longest-nice-substring](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1763-longest-nice-substring) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
@@ -477,6 +480,7 @@ Just starting the things out there
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anuj337-coder/Leetcodepractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
